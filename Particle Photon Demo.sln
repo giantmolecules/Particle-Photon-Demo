@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9E2C367B-622E-C906-A2CD-FF433E32BCA8}") = "Particle Photon Demo", "Assembly-CSharp-firstpass.csproj", "{B56943DA-A3B8-F834-D16C-53E13E1EE482}"
+EndProject
+Project("{9E2C367B-622E-C906-A2CD-FF433E32BCA8}") = "Particle Photon Demo", "Assembly-CSharp.csproj", "{2ECC62A3-A0AF-25DB-6B61-7CABF3548D44}"
+EndProject
+Project("{9E2C367B-622E-C906-A2CD-FF433E32BCA8}") = "Particle Photon Demo", "Assembly-CSharp-Editor.csproj", "{378E781A-DC4D-BBDA-5FBD-C608392C6A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56943DA-A3B8-F834-D16C-53E13E1EE482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56943DA-A3B8-F834-D16C-53E13E1EE482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56943DA-A3B8-F834-D16C-53E13E1EE482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56943DA-A3B8-F834-D16C-53E13E1EE482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECC62A3-A0AF-25DB-6B61-7CABF3548D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECC62A3-A0AF-25DB-6B61-7CABF3548D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECC62A3-A0AF-25DB-6B61-7CABF3548D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECC62A3-A0AF-25DB-6B61-7CABF3548D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378E781A-DC4D-BBDA-5FBD-C608392C6A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378E781A-DC4D-BBDA-5FBD-C608392C6A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378E781A-DC4D-BBDA-5FBD-C608392C6A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378E781A-DC4D-BBDA-5FBD-C608392C6A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
